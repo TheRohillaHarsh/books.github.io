@@ -1,0 +1,46 @@
+#logo {
+    width: 200px;
+    height: 220px;
+}
+
+.navbar-list{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style: square;
+    font-size: large;
+    background-color:burlywood;
+    border: 2px solid black;
+    height: 150px;
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+
+#bcp-heading{
+    color:aquamarine;
+    text-decoration: underline;
+}
+
+#w-icon{
+    width: 50px;
+    height: 50px;
+}
+
+.contact-us-list{
+    list-style: none;
+}
+
+
+.book-card{
+    
+
+}
+
+.Buy-Now {
+    border: 2px red solid;
+    background-color: greenyellow;
+    width: 150px;
+    height: 200px;
+}
+
