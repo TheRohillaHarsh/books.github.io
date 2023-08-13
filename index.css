@@ -32,10 +32,7 @@
 }
 
 
-.book-card{
-    
 
-}
 
 .Buy-Now {
     border: 2px red solid;
@@ -44,3 +41,7 @@
     height: 200px;
 }
 
+.description-card{
+    border:2px black solid;
+    background-color: cornsilk;
+}
